@@ -1,3 +1,3 @@
 # DataStructures
 Data Structure Codes
-Includes assignments.
+Includes assignments/tasks.
